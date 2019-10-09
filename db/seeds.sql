@@ -1,0 +1,1 @@
+INSERT INTO friends (friend_name) VALUES ('arashi'), ('jacob'), ('melinda'), ('steve'), ('justin'), ('miko');
