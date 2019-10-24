@@ -1,7 +1,7 @@
 {
   "name": "friend-finder",
   "version": "1.0.0",
-  "description": "### Overview",
+  "description": "gang",
   "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/arashiwalker/friend-finder/issues"
   },
-  "homepage": "https://github.com/arashiwalker/friend-finder#readme"
+  "homepage": "https://github.com/arashiwalker/friend-finder#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "ejs": "^2.7.1",
+    "ejs-lint": "^0.3.0",
+    "engine": "^1.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "parser": "^0.1.4",
+    "path": "^0.12.7",
+    "view": "^1.1.1"
+  }
 }
